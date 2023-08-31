@@ -28,8 +28,8 @@
 <div>
   <img src="https://www.svgrepo.com/show/374016/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/473611/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354381/sqlite.svg" title="SQLite3"  alt="SQLite3" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
