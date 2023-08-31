@@ -19,6 +19,8 @@
 - 🧑‍🎓 I'm a First Year Computer Science undergrad at Thadomal Shahani Engineering College Mumbai
 
 - 🐍 Python Dev
+
+- 👀 Learning something new every day!
   
 - You can reach out to me at! : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-mohanty-aba93b27b/)
 
