@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About me!
 
-- 🧑‍🎓 I'm a First Year Computer Science undergrad at Thadomal Shahani Engineering College Mumbai
+- 🧑‍🎓 I'm a Second Year Computer Science undergrad at Thadomal Shahani Engineering College Mumbai
 
-- 🐍 Python Dev
+- 🐍 Python and Go := Dev
 
 - 👀 Learning something new every day!
   
