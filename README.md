@@ -17,7 +17,15 @@
 </a>
 
 <a href="https://codeforces.com/profile/Vin">
-  <img src="https://img.shields.io/badge/Specialist-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://vinayak9769.me">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.vinyak9769.me/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </div>
@@ -26,41 +34,79 @@
 
 ## About Me
 
-I'm a Computer Engineering student at TSEC Mumbai interested in backend systems, distributed infrastructure, and scalable software. 
-Most of my work revolves around: 
+I'm a Computer Engineering student at TSEC Mumbai interested in backend systems, distributed infrastructure, and scalable software.
+
+- 6x Hackathon Winner
+- Passionate Competitive Programmer
+- Interested in systems engineering, AI infrastructure, and cloud-native technologies
+
+Most of my work revolves around:
 - Go backend development
 - Kubernetes & cloud infrastructure
-- AI systems and orchestration 
-- High-performance services 
+- AI systems and orchestration
+- High-performance services
 - Concurrent and distributed systems
-  
+
 ---
 
 ## Tech Stack
 
-<div align="center">
+<table>
 
-### Languages
-
+<tr>
+<td><strong>Programming</strong></td>
+<td>
 <img src="https://skillicons.dev/icons?i=go,python,cpp,js,ts,java,dart,wasm"/>
+</td>
+</tr>
 
-### Backend & Infrastructure
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,grpc" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,grafana,prometheus,rabbitmq"/>
+<tr>
+<td><strong>Infrastructure</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana,prometheus,rabbitmq,terraform" />
+</td>
+</tr>
 
-### Tools & Platforms
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,firebase" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=git,linux,gcp,azure,firebase,postgres,mongodb,redis,sqlite,githubactions,bash,ubuntu"/>
+<tr>
+<td><strong>LLMs</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,pinecone,ollama,weaviate" />
+</td>
+</tr>
 
-</div>
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,githubactions,linux,bash,postman,docker" />
+</td>
+</tr>
+
+</table>
 
 ---
 
 ## Current Focus
 
-* Scalable backend systems
-* Concurrent AI systems
-* Performance engineering
+- Scalable backend systems
+- Concurrent AI systems
+- Performance engineering
+- Distributed infrastructure
+- Cloud-native tooling
 
 ---
 
@@ -97,3 +143,4 @@ Scale things.
 Understand systems deeply.
 Repeat.
 ```
+
