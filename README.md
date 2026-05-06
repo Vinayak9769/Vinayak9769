@@ -1,57 +1,99 @@
+<div align="center">
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vinayak-mohanty-aba93b27b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/9Vineyard">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+# Vinayak Mohanty
+
+### Backend Engineering • Distributed Systems • AI Infrastructure
+
+<img src="https://komarev.com/ghpvc/?username=vinayak9769&style=flat-square&color=blue" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vinayak-mohanty-aba93b27b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/9Vineyard">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Vin">
+  <img src="https://img.shields.io/badge/Specialist-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 </div>
-<h1>
-  Hey There! Welcome to my Github Profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ---
 
-### 👨‍💻 About me!
+## About Me
 
-- 🧑‍🎓 I'm a Second Year Computer Science undergrad at Thadomal Shahani Engineering College Mumbai
-
-- 🐍 Python and Go := Dev
-
-- 👀 Learning something new every day!
+I'm a Computer Engineering student at TSEC Mumbai interested in backend systems, distributed infrastructure, and scalable software. 
+Most of my work revolves around: 
+- Go backend development
+- Kubernetes & cloud infrastructure
+- AI systems and orchestration 
+- High-performance services 
+- Concurrent and distributed systems
   
-- You can reach out to me at! : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-mohanty-aba93b27b/)
-
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://www.svgrepo.com/show/374016/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" title="C#" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/473611/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" title="Django" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/374094/sqlite.svg" title="SQLite3"  alt="SQLite3" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=go,python,cpp,js,ts,java,dart,wasm"/>
+
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,grafana,prometheus,rabbitmq"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,linux,gcp,azure,firebase,postgres,mongodb,redis,sqlite,githubactions,bash,ubuntu"/>
+
 </div>
 
 ---
 
-### 🤖 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinayak9769&theme=dark&background=000000)](https://git.io/streak-stats)
+## Current Focus
 
-<!--
-**Vinayak9769/Vinayak9769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Scalable backend systems
+* Concurrent AI systems
+* Performance engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinayak9769&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak9769&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=vinayak9769&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayak9769&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## Philosophy
+
+```text
+Build things.
+Break things.
+Scale things.
+Understand systems deeply.
+Repeat.
+```
