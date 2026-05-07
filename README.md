@@ -63,7 +63,7 @@ Most of my work revolves around:
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,grpc" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,django,flask,nestjs,grpc" />
 </td>
 </tr>
 
